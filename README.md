@@ -1,5 +1,5 @@
 # Discord-Toolkit-Public
-<img alt="Logo" src="https://raw.githubusercontent.com/Discord-Toolkit-Official/Discord-Toolkit-Public/main/art/ToolkitLogo.jpg" />
+<img alt="Logo" src="https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/Art/ToolkitLogo.jpg?raw=true" />
 
 
 <details> 
