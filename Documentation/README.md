@@ -1,5 +1,3 @@
 # Discord Toolkit Documentation
 ---------------------------------------------------
-<details>
-(Injection)[https://g.com]
-</details>
+[Injection](https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/Documentation/Injection.js)
