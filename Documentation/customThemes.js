@@ -9,6 +9,8 @@ uninjecttheme("Testid")
 */
 
 //E.g Inject (Don't Edit "CTH")
+//If you decide to share your theme, make your mark on the theme by adding your username in the "Author" line
+/* Author: {Your Username} */
 function customtheme () {
 injecttheme("CTH", ".tag { css: css }") 
 injecttheme("CTH", ".tag { css: css }") 
