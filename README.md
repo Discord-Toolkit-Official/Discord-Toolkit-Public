@@ -1,6 +1,7 @@
 # Discord-Toolkit-Public
 <img alt="Logo" src="https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/Art/ToolkitLogo.jpg?raw=true" />
 
+## [Documentation](https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/Documentation/)
 
 <details> 
 <summaryHelp</summary>
