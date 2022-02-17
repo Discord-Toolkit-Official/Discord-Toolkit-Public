@@ -30,4 +30,5 @@ injecttheme("CTH", ".newMessagesBar-1hF-9G { background-color: #202 }")
 injecttheme("CTH", ".divider-2rZFJK { align-items: end }") 
 injecttheme("CTH", ".colorStandard-21JIj7 { color: rgb(28 69 182) }") 
 injecttheme("CTH", ".title-2dsDLn { color: #00dcff }") 
+injecttheme("CTH", ".button-1iHNQ2 { background-color: white }") 
 }
