@@ -12,3 +12,5 @@ You have two options:
 /*
 Video Explanation Here: https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/Art/Toolkit_Demo.mp4
 */
+
+//Injection wont work on Canary
