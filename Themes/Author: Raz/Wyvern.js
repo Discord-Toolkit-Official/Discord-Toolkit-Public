@@ -1,4 +1,4 @@
-var themeName = "Wyvern"
+var themeName = "Wyvern Theme"
 var themeDesc = "Discord but green"
 /* Author: Raz#7970 */
 function customtheme () {
