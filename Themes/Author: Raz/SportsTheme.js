@@ -2,7 +2,7 @@ var themeName = "Wyvern Theme"
 var themeDesc = "Discord but green"
 /* Author: Raz#7970 */
 function customtheme () {
-injecttheme("CTH", `.content-1jQy2l, .members-3WRCEx, .container-ZMc96U.themed-Hp1KC_, .privateChannels-oVe7HL, .scroller-WSmht3, .scroller-3X7KbA, .withFrame-2dL45i, .sidebar-1tnWFu, .theme-dark {
+injecttheme("CTH", `.content-1jQy2l, .members-3WRCEx, .thin-31rlnD, .container-ZMc96U.themed-Hp1KC_, .privateChannels-oVe7HL, .scroller-WSmht3, .scroller-3X7KbA, .withFrame-2dL45i, .sidebar-1tnWFu, .theme-dark {
   background-image: url('https://support.discord.com/hc/user_images/taI1y91jaKAlB8vX0_5kag.jpeg');
   background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
 	background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
