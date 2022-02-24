@@ -16,7 +16,7 @@ injecttheme("CTH", `.content-1jQy2l, .theme-dark .root-g14mjS, .peopleColumn-1wM
 	background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
 	background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
 	background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
-	background-blur: 0px;
+	background-blur: 30px;
  	--background-primary: #36393f00;
  	--background-secondary: #2f313642;
  	--background-secondary-alt: #292b2f57;
@@ -42,6 +42,9 @@ injecttheme("CTH", `.content-1jQy2l, .theme-dark .root-g14mjS, .peopleColumn-1wM
 }
 .channelTextArea-1FufC0 {
     background-color: #36393f29;
+}
+.platform-win .sidebar-1tnWFu {
+    border-radius: 0px 0 0;
 }
 `)
 }
