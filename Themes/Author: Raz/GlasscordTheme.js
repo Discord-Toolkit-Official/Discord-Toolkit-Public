@@ -1,9 +1,9 @@
-var themeName = "Wyvern Theme"
-var themeDesc = "Discord but green"
+var themeName = "Glasscord Theme"
+var themeDesc = "Discord But 100% transparent and you can add pictures"
 /* Author: Raz#7970 */
 function customtheme () {
 injecttheme("CTH", `.content-1jQy2l, .theme-dark .root-g14mjS, .peopleColumn-1wMU14, .members-3WRCEx, .thin-31rlnD, .contentRegion-3HkfJJ, .scroller-1ox3I2, .container-ZMc96U.themed-Hp1KC_, .privateChannels-oVe7HL, .scroller-WSmht3, .scroller-3X7KbA, .withFrame-2dL45i, .sidebar-1tnWFu, .theme-dark {
-  background-image: url('https://support.discord.com/hc/user_images/taI1y91jaKAlB8vX0_5kag.jpeg');
+  background-image: url('https://support.discord.com/hc/user_images/xlbQOO5MQcqPG3s2tlIukw.jpeg');
   background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
 	background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
 	background-position: center; /* app background position [default: center] */
