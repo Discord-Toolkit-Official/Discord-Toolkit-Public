@@ -1,4 +1,5 @@
-injecttheme("CTH", `* {
+injecttheme("CTH", `
+* {
   --hue: 0deg;
   --saturation: 0%;
   --lightness: 10%;
@@ -12,7 +13,7 @@ injecttheme("CTH", `* {
   --talking-glow: rgb(var(--accent));
   --blur: 10px;
   --TB-height: calc(var(--toolbar-height) - 1px);
-  --TB-width: 52px;
+  --TB-width: 40px;
   --TB-header-padding: 155px;
   --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -1px rgb(0 0 0 / 0.06);
   --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 10px 10px -5px rgb(0 0 0 / 0.04);
@@ -48,8 +49,6 @@ injecttheme("CTH", `* {
   --settings-max-height: 800px;
   --settings-max-width: calc(var(--settings-sidebar-width) + var(--settings-content-width));
   --text-link: rgb(var(--accent));
-  --font-primary: var(--font, "Whitney");
-  --font-display: var(--font, "Whitney");
   --channels-default: #aaa;
   --background-modifier-hover: rgb(255 255 255 / .05);
   --background-modifier-active: rgb(255 255 255 / .08);
@@ -4337,4 +4336,10 @@ html.theme-light .container-YkUktl {
 
 	--rs-phone-visible: block; /* Visibility of the phone for mobile users | Default: block */
 }
-')
+.upload-vLbqu- {
+    background-color: #2f313600;
+}
+.emptyMainCard-2pg-47, .mainCard-3KBsBI, .subCard-128RYo, #app-mount .content-2a4AW9 {
+    background-color: #1d1724;
+}
+`)
