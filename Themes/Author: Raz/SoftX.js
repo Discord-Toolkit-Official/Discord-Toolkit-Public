@@ -1,3 +1,6 @@
+var themeName = "SoftX Theme"
+var themeDesc = "A soft and comfy feel for Discord"
+/* Author: Gibbu#1211 */
 injecttheme("CTH", `
 * {
   --hue: 0deg;
