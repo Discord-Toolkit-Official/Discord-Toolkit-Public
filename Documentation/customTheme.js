@@ -1,7 +1,10 @@
 /*
 //E.g Inject
-injecttheme("TestId", ".darktheme { css: var ; css }") 
 injecttheme("TestId", ".dark-theme { display: none }") 
+--- or --- 
+injecttheme("TestId", `.dark-theme { 
+display: none 
+}`) 
 
 //uninject
 uninjecttheme("TestId") 
