@@ -12,19 +12,23 @@ uninjecttheme("Testid")
 //If you decide to share your theme, make your mark on the theme by adding your username in the "Author" line
 /* Author: {Your Username} */
 function customtheme () {
-injecttheme("CTH", ".tag { css: css }") 
-injecttheme("CTH", ".tag2 { css: css }") 
+injecttheme("CTH", ".tag { css: css } .tag2 { css: css }")
 }
 
 /* or */
 
 function customtheme () {
-injecttheme("CTH", ".tag { css: css } .tag2 { css: css }") 
+injecttheme("CTH", `
+.tag { 
+css: css 
+} 
+.tag2 { 
+css: css 
+}`) 
 }
 
 //E.g Eject (We've done this for you don't worry)
 function ejectcustheme () {
-uninjecttheme("CTH") 
 uninjecttheme("CTH") 
 }
 
