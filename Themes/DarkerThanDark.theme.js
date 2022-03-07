@@ -1,4 +1,4 @@
-var themeName = "DarkerThanDarkTheme"
+var themeName = "DarkerThanDark Theme"
 var themeDesc = "Its Darker Than Dark Mode"
 /* Author: Raz#7970 */
 function customtheme () {
