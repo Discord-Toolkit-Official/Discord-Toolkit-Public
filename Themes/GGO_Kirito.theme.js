@@ -1,7 +1,7 @@
-var themeName = "GGO_Kirito"
+var themeName = "GGO_Kirito Theme"
 var themeDesc = "SAO-Related Theme"
 /* Author: VaporousCreeper */
-
+function customtheme () {
 injecttheme("CTH", `#app-mount {
 	background: var(--background-image);
 }
@@ -718,3 +718,4 @@ injecttheme("CTH", `#app-mount {
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }`)
 uninjecttheme("FloatingChannels")
+}
