@@ -28,11 +28,11 @@
   
   
 ---------------------------------------------------
-Copy all the code in toolkit.js
+Copy all the code in "Toolkit" javascript file (.js)
 
 Go into Discord on your browser
 
-Press Ctrl + Shift + J
+Press Ctrl + Shift + I
 
 Press Crtl + V then enter
 ---------------------------------------------------
@@ -47,7 +47,7 @@ Refresh
   
 Disable any exstensions
   
-Ask in our discord https://discord.gg/hkZSuFDaHu
+Ask in our discord https://toolkit.the-red-hand.com/discord
   
 or
   
