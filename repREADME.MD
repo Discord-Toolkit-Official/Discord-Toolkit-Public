@@ -35,6 +35,7 @@ Go into Discord on your browser
 Press Ctrl + Shift + I
 
 Press Crtl + V then enter
+  
 ---------------------------------------------------
 </details>
 <details>
