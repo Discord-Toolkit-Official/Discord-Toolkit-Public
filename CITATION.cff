@@ -5,17 +5,19 @@ authors:
   given-names: "Ebr"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Tung"
+  given-names: " "
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Wang"
+  given-names: " "
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Fiber"
   given-names: "Modem"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bootsy"
-  given-names: "Doggy"
+- family-names: "Doggy"
+  given-names: "Bootsy"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Immoral"
-  given-names: "Immoral"
+  given-names: " "
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Red"
   given-names: "Full Time"
@@ -23,5 +25,5 @@ authors:
 title: "Discord Toolkit"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
+date-released: 2022-03-18
 url: "https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public"
