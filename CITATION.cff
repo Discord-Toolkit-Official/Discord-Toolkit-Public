@@ -1,29 +1,29 @@
 cff-version: 1.2.0
-message: "If you use Discord Toolkit in some of your research or projects, please cite it using these metadata. More info provided at "toolkit.the-red-hand.com"
-title: Discord Toolkit, breaking Discord's limits
-abstract: TensorFlow is a machine learning system that operates at large scale and in heterogeneous environments. TensorFlow uses dataflow graphs to represent computation, shared state, and the operations that mutate that state. It maps the nodes of a dataflow graph across many machines in a cluster, and within a machine across multiple computational devices, including multicore CPUs, general purpose GPUs, and custom-designed ASICs known as Tensor Processing Units (TPUs). This architecture gives flexibility to the application developer, whereas in previous “parameter server” designs the management of shared state is built into the system, TensorFlow enables developers to experiment with novel optimizations and training algorithms. TensorFlow supports a variety of applications, with a focus on training and inference on deep neural networks. Several Google services use TensorFlow in production, we have released it as an open-source project, and it has become widely used for machine learning research. In this paper, we describe the TensorFlow dataflow model and demonstrate the compelling performance that TensorFlow achieves for several real-world applications.
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Raz
-    given-names: Raz
-  - family-names: Wang
-    given-names: Wang
-  - family-names: Tung
-    given-names: Tung
-  - family-names: Full Time Red
-    given-names: Full Time Red
-  - family-names: Immoral
-    given-names: Immoral
-  - family-names: Fiber Modem
-    given-names: Fiber Modem
-  - family-names: Doggybootsy
-    given-names: Doggybootsy
-  - family-names: Socket
-    given-names: Socket
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.4724125
-    description: The concept DOI for the collection containing all versions of the Citation File Format.
-date-released: "2022-02-29"
-license: "MIT"
-doi: 10.5281/zenodo.4724125
- 
+- family-names: "Ebr"
+  given-names: "Raz"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Tung"
+  given-names: "Tung"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Wang"
+  given-names: "Wang"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Modem"
+  given-names: "Fiber"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bootsy"
+  given-names: "Doggy"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Immoral"
+  given-names: "Immoral"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Red"
+  given-names: "Full Time"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Discord Toolkit"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public"
