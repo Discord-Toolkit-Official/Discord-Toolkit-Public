@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "800px" src="https://camo.githubusercontent.com/e54a17c313326c252b5abea43927d89913403e8c8fa45b14734dde205cccffa1/68747470733a2f2f692e696d6775722e636f6d2f324464516250492e706e67" alt="cover" />
+<img width="100%" height = "750px" src="https://camo.githubusercontent.com/e54a17c313326c252b5abea43927d89913403e8c8fa45b14734dde205cccffa1/68747470733a2f2f692e696d6775722e636f6d2f324464516250492e706e67" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Discord Users/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
