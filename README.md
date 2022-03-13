@@ -141,4 +141,4 @@ Report bugs in issues
 
 ### License
 ---------------------------------------------------
-[MIT License](
+[MIT License](https://github.com/Discord-Toolkit-Official/Discord-Toolkit-Public/blob/main/LICENSE)
