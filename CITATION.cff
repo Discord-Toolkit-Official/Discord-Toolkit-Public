@@ -19,8 +19,8 @@ authors:
 - family-names: "Immoral"
   given-names: " "
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Red"
-  given-names: "Full Time"
+- family-names: "FTR"
+  given-names: ""
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Discord Toolkit"
 version: 1.0.0
