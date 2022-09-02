@@ -137,7 +137,7 @@ Report bugs in issues
 ---------------------------------------------------
 
 ## Other Technical Stuff
-- Dead Project atm
+<li>Dead Project atm</li>
 
 ### License
 ---------------------------------------------------
